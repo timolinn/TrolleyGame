@@ -1,0 +1,6 @@
+[package]
+name = "TrolleyGame"
+version = "0.1.0"
+authors = ["Timothy Onyiuke <timothyonyiuke@gmail.com>"]
+
+[dependencies]
